@@ -1,4 +1,5 @@
 # Tolkien
+# Stripe prototype
 
 To start your Phoenix app:
 
